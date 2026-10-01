@@ -4,9 +4,9 @@ A deep learning project that classifies IMDB movie reviews as **Positive** or **
 
 ## Live Web Application
 
-[Streamlit App]()  
+[Streamlit App](https://e2e-dl-with-simplernn-hjzpx7mdtsn4qetpdbausq.streamlit.app/)  
 
-[Watch the Project Demo Video]()
+[Watch the Project Demo Video](https://drive.google.com/file/d/1thQh3ttbcvPvw-LA0uzJQBjnI9pYDuI-/view?usp=sharing)
 
 ## Neural Network Architecture
 
